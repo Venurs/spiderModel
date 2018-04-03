@@ -1,0 +1,2 @@
+# spiderModel
+封装了urllib和requests中的各种请求url的方式
